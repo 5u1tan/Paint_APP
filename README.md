@@ -13,5 +13,5 @@ The code has two .xml which used for layout the Paint View and the Main Acitivit
 - [Drawables overview]( https://developer.android.com/develop/ui/views/graphics/drawables).
 - [SeekBar in Kotlin]( https://www.geeksforgeeks.org/seekbar-in-kotlin/).
 - [how to change "ImageView" opacity in kotlin](https://stackoverflow.com/questions/56346747/how-to-change-imageview-opacity-in-kotlin).
-- [AddPhotoFromGalleryKotlinAndroidTutorial]( https://github.com/turtlecode/AddPhotoFromGalleryKotlinAndroidTutorial).
-- [
+- [Pick Image From Gallery in Android Studio (Source code) - Kotlin Tutorial](https://www.youtube.com/watch?v=0HIT3uhJ6UY&t=278s).
+- [Create a Simple Paint Application in Android using Kotlin | GeeksforGeeks](https://www.youtube.com/watch?v=8mjv_iDSLcw).
